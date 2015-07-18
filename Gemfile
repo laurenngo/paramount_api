@@ -5,6 +5,10 @@ source 'https://rubygems.org'
 # api gems
 gem 'active_model_serializers'
 
+# api auth gem
+
+gem "devise"
+
 
 
 
